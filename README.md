@@ -20,7 +20,7 @@ Add cron support to your application
 Add this upstream Venus quickstart repo
 
 	cd venus
-	rm -rf *
+	rm php/index.php
 	git remote add upstream -m master git://github.com/jasonbrooks/venus-openshift-quickstart.git
 	git pull -s recursive -X theirs upstream master
 
