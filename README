@@ -11,16 +11,12 @@ Create an account at http://openshift.redhat.com/
 
 Create a PHP application
 
-	rhc-create-app -a venus -t php-5.3 -l $USERNAME
+	rhc app create -a venus -t php-5.3
 
 Add cron support to your application
     
 	rhc app cartridge add -a venus -c cron-1.4
     
-Clone your application locally
-
-    git clone "your ssh address" 
-
 Add this upstream Venus quickstart repo
 
 	cd venus
