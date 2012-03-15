@@ -24,7 +24,9 @@ Add this upstream Venus quickstart repo
 	git remote add upstream -m master git://github.com/jasonbrooks/venus-openshift-quickstart.git
 	git pull -s recursive -X theirs upstream master
 
-Customize planet configuration at: libs/planet.ini
+Customize planet configuration
+
+        vi libs/planet.ini
 
 Then push the repo upstream to OpenShift
 
