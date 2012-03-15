@@ -28,6 +28,10 @@ Customize planet configuration
 
 	vi libs/planet.ini
 
+Commit any planet configuration customizations
+
+	git commit -a -m "customized planet config"
+
 Then push the repo upstream to OpenShift
 
 	git push        
