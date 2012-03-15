@@ -1,8 +1,6 @@
 Venus on OpenShift
 =========================
-Venus is a downloadable, open source (GPL licensed) real time web analytics software program. It provides you with detailed reports on your website visitors: the search engines and keywords they used, the language they speak, your popular pages, and so much more.
-
-Venus Venus is an awesome ‘river of news’ feed reader. It downloads news feeds published by web sites and aggregates their content together into a single combined feed, latest news first.
+Venus is an awesome ‘river of news’ feed reader. It downloads news feeds published by web sites and aggregates their content together into a single combined feed, latest news first.
 
 More information can be found at http://intertwingly.net/code/venus/docs/index.html.
 
