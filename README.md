@@ -26,7 +26,7 @@ Add this upstream Venus quickstart repo
 
 Customize planet configuration
 
-        vi libs/planet.ini
+	vi libs/planet.ini
 
 Then push the repo upstream to OpenShift
 
