@@ -43,5 +43,7 @@ That's it, you can now checkout your application at:
 To give your new planet site a web address of its own, add your desired alias:
 
 	rhc app add-alias -a venus --alias "planet.$mydomain.com"
+	
+![](screenshot.png?raw=true "Venus on OpenShift")
 
 Then add a cname entry in your domain's dns configuration pointing your alias to venus-$yourdomain.rhcloud.com.
